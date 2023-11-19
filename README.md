@@ -1,16 +1,6 @@
 # Conway's Game of Life
 
-## Desarrollado por el Grupo Visuales Ilegales
-
-### Integrantes:
-
-* Daniel Leonardo Sanchez Galindo
-
-* Andres Fernando Rojas Pedraza
-
-* Juan Diego Ramirez Lemos
-
-* Juan Jose Ramirez Gomez
+## Desarrollado por Daniel Leonardo Sanchez Galindo
 
 ### Descripción del Proyecto
 
